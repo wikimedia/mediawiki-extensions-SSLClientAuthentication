@@ -144,6 +144,7 @@ function efClientSSLAbortLogin( $user, $password, &$retval ) {
 	if(
 		$wgClientSSLStrictAuth &&
 		$user->isLoggedIn() &&
+		$sslcert !== false &&
 		$sslcert->verify()->isGood() &&
 		$sslcert->getField( 'user_id' ) !== $user->getId()
 	 ) {
