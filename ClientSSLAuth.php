@@ -189,6 +189,6 @@ function efClientSSLAddPrefsLink( User $user, array &$preferences ) {
  * @param $updater Updater object
  */
 function efClientSSLSchemaUpdates( $updater ) {
-	$updater->addExtensionTable( 'sslauth', dirname( __FILE__ ) . '/sslauth.sql' );
+	$updater->addExtensionTable( 'sslcerts', dirname( __FILE__ ) . '/sslauth.sql' );
 	return true;
 }
