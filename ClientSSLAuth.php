@@ -19,12 +19,12 @@
  */
 
 // Extension information
-$wgExtensionCredits['clientsslauth'][] = array(
+$wgExtensionCredits['other'][] = array(
 	'path' => __FILE__,
 	'name' => 'Client SSL Authentication',
 	'author' => 'Tyler Romeo',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:SSLClientAuthentication',
-	'description' => 'Allows users to upload SSL certificates to be used for authentication',
+	'descriptionmsg' => 'sslauth-desc',
 	'version' => 0.5,
 );
 
