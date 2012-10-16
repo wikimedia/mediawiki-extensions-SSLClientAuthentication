@@ -37,3 +37,21 @@ $messages['en'] = array(
 	'sslauth-prefs-name' => 'SSL Authentication',
 	'sslauth-prefs-linktospecial' => 'Enable/Disable Client Certificates',
 );
+
+$messages['qqq'] = array(
+	'sslauth-title-enable' => 'Title of Special:ClientSSL when ssl-auth is disabled and the user is enabling it.',
+	'sslauth-title-disable' => 'Title of Special:ClientSSL when ssl-auth is enabled and the user is disabling it.',
+	'sslauth-enable' => 'Label for the submit button when enabling. {{Identical|Enable}}',
+	'sslauth-disable' => 'Label for the submit button when disabling. {{Identical|Disable}}',
+	'sslauth-cn' => 'Label for the CN (Common Name) field of the SSL certificate.',
+	'sslauth-email' => 'Label for the e-mail field of the SSL certificate.',
+	'sslauth-serial' => 'Label for the serial number field of the SSL certificate.',
+	'sslauth-response-enable' => 'Success message when SSL auth has been enabled.',
+	'sslauth-response-disable' => 'Success message when SSL auth has been disabled.',
+	'sslauth-invalidrequest-title' => 'Title of Special:ClientSSL when no SSL certificate has been given.',
+	'sslauth-invalidrequest' => 'Message displayed on Special:ClientSSL when no SSL certificate has been given.',
+	'clientssl-legend' => 'Title of the fieldset for the form on Special:ClientSSL.',
+	'clientssl-text' => 'Prompt displayed on the client SSL form.',
+	'sslauth-prefs-name' => 'Label for the preferences link to Special:ClientSSL (not the actual text for the link).',
+	'sslauth-prefs-linktospecial' => 'Text for the preferences link to Special:ClientSSL.'
+);
