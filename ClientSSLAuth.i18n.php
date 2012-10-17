@@ -39,6 +39,7 @@ $messages['en'] = array(
 	'sslauth-prefs-linktospecial' => 'Enable/Disable client certificates',
 );
 
+/** Message documentation (Message documentation) */
 $messages['qqq'] = array(
 	'sslauth-title-enable' => 'Title of Special:ClientSSL when ssl-auth is disabled and the user is enabling it.',
 	'sslauth-title-disable' => 'Title of Special:ClientSSL when ssl-auth is enabled and the user is disabling it.',
@@ -54,5 +55,77 @@ $messages['qqq'] = array(
 	'clientssl-legend' => 'Title of the fieldset for the form on Special:ClientSSL.',
 	'clientssl-text' => 'Prompt displayed on the client SSL form.',
 	'sslauth-prefs-name' => 'Label for the preferences link to Special:ClientSSL (not the actual text for the link).',
-	'sslauth-prefs-linktospecial' => 'Text for the preferences link to Special:ClientSSL.'
+	'sslauth-prefs-linktospecial' => 'Text for the preferences link to Special:ClientSSL.',
 );
+
+/** German (Deutsch)
+ * @author Metalhead64
+ */
+$messages['de'] = array(
+	'sslauth-desc' => 'Ermöglicht es Benutzern, SSL-Zertifikate zur Authentifizierung hochzuladen',
+	'sslauth-title-enable' => 'SSL-Client-Authentifizierung aktivieren',
+	'sslauth-title-disable' => 'SSL-Client-Authentifizierung deaktivieren',
+	'sslauth-enable' => 'Aktivieren',
+	'sslauth-disable' => 'Deaktivieren',
+	'sslauth-cn' => 'Allgemeiner Name',
+	'sslauth-email' => 'E-Mail-Adresse',
+	'sslauth-serial' => 'Seriennummer',
+	'sslauth-response-enable' => 'Die SSL-Authentifizierung wurde erfolgreich aktiviert. Immer, wenn du dich mit deinem Clientzertifikat auf {{SITENAME}} über HTTPS verbindest, wirst du automatisch angemeldet.',
+	'sslauth-response-disable' => 'Die SSL-Authentifizierung wurde erfolgreich deaktiviert.',
+	'sslauth-invalidrequest-title' => 'Ungültige Anfrage',
+	'sslauth-invalidrequest' => 'Für diese Seite muss ein gültiges SSL-Zertifikat angegeben werden.',
+	'clientssl-legend' => 'SSL-Authentifizierung',
+	'clientssl-text' => 'Verwende diese Seite, um die Authentifizierung mit Client-SSL-Zertifikaten zu aktivieren/deaktivieren.',
+	'sslauth-prefs-name' => 'SSL-Authentifizierung',
+	'sslauth-prefs-linktospecial' => 'Clientzertifikate aktivieren/deaktivieren',
+);
+
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'sslauth-desc' => '認証に使用する SSL 証明書を利用者がアップロードできるようにする',
+	'sslauth-title-enable' => 'SSL クライアント認証を有効化',
+	'sslauth-title-disable' => 'SSL クライアント認証を無効化',
+	'sslauth-enable' => '有効化',
+	'sslauth-disable' => '無効化',
+	'sslauth-cn' => '一般名 (CN)',
+	'sslauth-email' => 'メール アドレス',
+	'sslauth-serial' => 'シリアル番号',
+	'sslauth-response-enable' => 'SSL 認証を有効にしました。自分のクライアント証明書を使用して HTTPS で{{SITENAME}}に接続すれば常に自動ログインできるようになりました。',
+	'sslauth-response-disable' => 'SSL 認証を無効にしました。',
+	'sslauth-invalidrequest-title' => '無効なリクエスト',
+	'sslauth-invalidrequest' => 'このページを有用なものにするために、有効な SSL クライアント証明書を指定してください。',
+	'clientssl-legend' => 'SSL 認証',
+	'clientssl-text' => 'このページでは、クライアント SSL 証明書での認証を有効化/無効化できます。',
+	'sslauth-prefs-name' => 'SSL 認証',
+	'sslauth-prefs-linktospecial' => 'クライアント証明書を有効化/無効化',
+);
+
+/** Macedonian (македонски)
+ * @author Bjankuloski06
+ */
+$messages['mk'] = array(
+	'sslauth-desc' => 'Овозможува корисниците да подигаат SSL-уверенија што ќе се користат за заверки',
+	'sslauth-title-enable' => 'Овозможи заверка со SSL',
+	'sslauth-title-disable' => 'Овнеозможи заверка со SSL',
+	'sslauth-enable' => 'Овозможи',
+	'sslauth-disable' => 'Оневозможи',
+	'sslauth-cn' => 'Заедничко име',
+	'sslauth-email' => 'Е-пошта',
+	'sslauth-serial' => 'Сериски број',
+	'sslauth-response-disable' => 'Заверката со SSL е успешно оневозможена.',
+	'sslauth-invalidrequest-title' => 'Неважечко барање',
+	'clientssl-legend' => 'Заверка со SSL',
+	'sslauth-prefs-name' => 'Заверка со SSL',
+	'sslauth-prefs-linktospecial' => 'Овозможи/Оневозможи клиентски уверенија',
+);
+
+/** Telugu (తెలుగు)
+ * @author Veeven
+ */
+$messages['te'] = array(
+	'sslauth-email' => 'ఈ-మెయిల్ చిరునామా',
+	'sslauth-serial' => 'క్రమ సంఖ్య',
+);
+
