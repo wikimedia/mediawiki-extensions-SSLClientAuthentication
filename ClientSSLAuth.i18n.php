@@ -80,6 +80,28 @@ $messages['de'] = array(
 	'sslauth-prefs-linktospecial' => 'Clientzertifikate aktivieren/deaktivieren',
 );
 
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'sslauth-desc' => "Consente agli utenti di caricare i certificati SSL da utilizzare per l'autenticazione",
+	'sslauth-title-enable' => 'Abilita autenticazione client SSL',
+	'sslauth-title-disable' => 'Disabilita autenticazione client SSL',
+	'sslauth-enable' => 'Abilita',
+	'sslauth-disable' => 'Disabilita',
+	'sslauth-cn' => 'Nome comune',
+	'sslauth-email' => 'Indirizzo e-mail',
+	'sslauth-serial' => 'Numero di serie',
+	'sslauth-response-enable' => "L'autenticazione SSL è stata attivata con successo. Ora ogni volta che ti connetti a {{SITENAME}} su HTTPS con il tuo certificato client, verrà effettuato automaticamente l'accesso.",
+	'sslauth-response-disable' => "L'autenticazione SSL è stata disabilitata con successo.",
+	'sslauth-invalidrequest-title' => 'Richiesta non valida',
+	'sslauth-invalidrequest' => 'Deve essere fornito un certificato client SSL valido per rendere utilizzabile questa pagina.',
+	'clientssl-legend' => 'Autenticazione SSL',
+	'clientssl-text' => "Utilizza questa pagina per attivare o disattivare l'autenticazione con certificati SSL client.",
+	'sslauth-prefs-name' => 'Autenticazione SSL',
+	'sslauth-prefs-linktospecial' => 'Attiva/disattiva certificati client',
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */
@@ -114,9 +136,12 @@ $messages['mk'] = array(
 	'sslauth-cn' => 'Заедничко име',
 	'sslauth-email' => 'Е-пошта',
 	'sslauth-serial' => 'Сериски број',
+	'sslauth-response-enable' => 'Заверката со SSL е успешно овозможена. Отсега ќе се најавувате автоматски кога ќе се поврзувате со {{SITENAME}} преку HTTPS со вашето клиентско уверение.',
 	'sslauth-response-disable' => 'Заверката со SSL е успешно оневозможена.',
 	'sslauth-invalidrequest-title' => 'Неважечко барање',
+	'sslauth-invalidrequest' => 'Мора да поднесете важечко SSL-уверение за да страницава да биде од корист.',
 	'clientssl-legend' => 'Заверка со SSL',
+	'clientssl-text' => 'Со оваа страница се овозможуваат/оневозможуваат клиентски заверки со SSL-уверенија.',
 	'sslauth-prefs-name' => 'Заверка со SSL',
 	'sslauth-prefs-linktospecial' => 'Овозможи/Оневозможи клиентски уверенија',
 );
