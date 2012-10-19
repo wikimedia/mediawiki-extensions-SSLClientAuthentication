@@ -80,6 +80,68 @@ $messages['de'] = array(
 	'sslauth-prefs-linktospecial' => 'Clientzertifikate aktivieren/deaktivieren',
 );
 
+/** Spanish (español)
+ * @author Armando-Martin
+ */
+$messages['es'] = array(
+	'sslauth-desc' => 'Permite a los usuarios subir certificados SSL para usarlos en la autenticación',
+	'sslauth-title-enable' => 'Activar la autenticación de cliente mediante SSL',
+	'sslauth-title-disable' => 'Desactivar la autenticación de cliente mediante SSL',
+	'sslauth-enable' => 'Activar',
+	'sslauth-disable' => 'Desactivar',
+	'sslauth-cn' => 'Nombre común',
+	'sslauth-email' => 'Dirección de correo electrónico',
+	'sslauth-serial' => 'Número de serie',
+	'sslauth-response-enable' => 'La autenticación mediante SSL se ha activado correctamente. Ahora cuando se conecte a {{SITENAME}} mediante HTTPS con su certificado de cliente accederás al sistema automáticamente.',
+	'sslauth-response-disable' => 'La autenticación mediante SSL se ha desactivado correctamente.',
+	'sslauth-invalidrequest-title' => 'Solicitud inválida',
+	'sslauth-invalidrequest' => 'Debe proporcionar un certificado válido de cliente SSL para que esta página sea útil.',
+	'clientssl-legend' => 'Autenticación mediante SSL',
+	'clientssl-text' => 'Utiliza esta página para activar o desactivar la autenticación mediante certificados de cliente SSL.',
+	'sslauth-prefs-name' => 'Autenticación SSL',
+	'sslauth-prefs-linktospecial' => 'Activar/desactivar certificados de cliente',
+);
+
+/** Galician (galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'sslauth-desc' => 'Permite aos usuarios cargar certificados SSL para usalos na autenticación',
+	'sslauth-title-enable' => 'Activar a autenticación de cliente mediante SSL',
+	'sslauth-title-disable' => 'Desactivar a autenticación de cliente mediante SSL',
+	'sslauth-enable' => 'Activar',
+	'sslauth-disable' => 'Desactivar',
+	'sslauth-cn' => 'Nome común',
+	'sslauth-email' => 'Enderezo de correo electrónico',
+	'sslauth-serial' => 'Número de serie',
+	'sslauth-response-enable' => 'A autenticación SSL activouse correctamente. Agora cando se conecte a {{SITENAME}} con HTTPS co seu certificado de cliente accederás ao sistema automaticamente.',
+	'sslauth-response-disable' => 'A autenticación SSL desactivouse correctamente.',
+	'sslauth-invalidrequest-title' => 'Solicitude inválida',
+	'sslauth-invalidrequest' => 'Cómpre proporcionar un certificado de cliente SSL para que esta páxina sexa útil.',
+	'clientssl-legend' => 'Autenticación SSL',
+	'clientssl-text' => 'Utilice esta páxina para activar ou desactivar a autenticación cos certificados de cliente SSL.',
+	'sslauth-prefs-name' => 'Autenticación SSL',
+	'sslauth-prefs-linktospecial' => 'Activar ou desactivar os certificados de cliente',
+);
+
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'sslauth-title-enable' => 'Klientowu SSL-awtentifikaciju zmóžnić',
+	'sslauth-title-disable' => 'Klientowu SSL-awtentifikaciju znjemóžnić',
+	'sslauth-enable' => 'Zmóžnić',
+	'sslauth-disable' => 'Znjemóžnić',
+	'sslauth-cn' => 'Powšitkowne mjeno',
+	'sslauth-email' => 'E-mejlowa adresa',
+	'sslauth-serial' => 'Serijowe čisło',
+	'sslauth-response-disable' => 'SSL-awtentifikacija je so wuspěšnje znjemóžniła.',
+	'sslauth-invalidrequest-title' => 'Njepłaćiwe naprašowanje',
+	'clientssl-legend' => 'SSL-awtentifikacija',
+	'sslauth-prefs-name' => 'SSL-awtentifikacija',
+	'sslauth-prefs-linktospecial' => 'Klientowe certifikaty zmóžnić/znjemóžnić',
+);
+
 /** Italian (italiano)
  * @author Beta16
  */
