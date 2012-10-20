@@ -208,6 +208,15 @@ $messages['mk'] = array(
 	'sslauth-prefs-linktospecial' => 'Овозможи/Оневозможи клиентски уверенија',
 );
 
+/** Pashto (پښتو)
+ * @author Ahmed-Najib-Biabani-Ibrahimkhel
+ */
+$messages['ps'] = array(
+	'sslauth-enable' => 'چارنول',
+	'sslauth-disable' => 'ناچارنول',
+	'sslauth-email' => 'برېښليک پته',
+);
+
 /** Telugu (తెలుగు)
  * @author Veeven
  */
