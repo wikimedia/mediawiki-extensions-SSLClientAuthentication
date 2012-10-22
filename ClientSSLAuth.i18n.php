@@ -39,7 +39,8 @@ $messages['en'] = array(
 	'sslauth-prefs-linktospecial' => 'Enable/Disable client certificates',
 );
 
-/** Message documentation (Message documentation) */
+/** Message documentation (Message documentation)
+ */
 $messages['qqq'] = array(
 	'sslauth-title-enable' => 'Title of Special:ClientSSL when ssl-auth is disabled and the user is enabling it.',
 	'sslauth-title-disable' => 'Title of Special:ClientSSL when ssl-auth is enabled and the user is disabling it.',
@@ -208,6 +209,17 @@ $messages['mk'] = array(
 	'sslauth-prefs-linktospecial' => 'Овозможи/Оневозможи клиентски уверенија',
 );
 
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'sslauth-enable' => 'Inschakelen',
+	'sslauth-disable' => 'Uitschakelen',
+	'sslauth-cn' => 'Algemene naam',
+	'sslauth-email' => 'E-mailadres',
+	'sslauth-serial' => 'Serienummer',
+);
+
 /** Pashto (پښتو)
  * @author Ahmed-Najib-Biabani-Ibrahimkhel
  */
@@ -224,4 +236,3 @@ $messages['te'] = array(
 	'sslauth-email' => 'ఈ-మెయిల్ చిరునామా',
 	'sslauth-serial' => 'క్రమ సంఖ్య',
 );
-
