@@ -187,6 +187,17 @@ $messages['ja'] = array(
 	'sslauth-prefs-linktospecial' => 'クライアント証明書を有効化/無効化',
 );
 
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'sslauth-enable' => 'Aschalten',
+	'sslauth-disable' => 'Ausschalten',
+	'sslauth-invalidrequest-title' => 'Net-valabel Ufro',
+	'clientssl-legend' => 'SSL-Authentifikatioun',
+	'sslauth-prefs-name' => 'SSL-Authentifikatioun',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
