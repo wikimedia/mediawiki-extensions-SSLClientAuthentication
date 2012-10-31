@@ -103,6 +103,20 @@ $messages['es'] = array(
 	'sslauth-prefs-linktospecial' => 'Activar/desactivar certificados de cliente',
 );
 
+/** French (français)
+ * @author Gomoko
+ */
+$messages['fr'] = array(
+	'sslauth-desc' => "Permet aux utilisateurs de télécharger des certificats SSL à utiliser pour l'authentification",
+	'sslauth-title-enable' => "Activer l'authentification client SSL",
+	'sslauth-title-disable' => "Désactiver l'authentification client SSL",
+	'sslauth-enable' => 'Activer',
+	'sslauth-disable' => 'Désactiver',
+	'sslauth-cn' => 'Nom usuel',
+	'sslauth-email' => 'Adresse de courriel',
+	'sslauth-serial' => 'Numéro de série',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
