@@ -104,6 +104,7 @@ $messages['es'] = array(
 );
 
 /** French (français)
+ * @author Crochet.david
  * @author Gomoko
  */
 $messages['fr'] = array(
@@ -115,6 +116,9 @@ $messages['fr'] = array(
 	'sslauth-cn' => 'Nom usuel',
 	'sslauth-email' => 'Adresse de courriel',
 	'sslauth-serial' => 'Numéro de série',
+	'sslauth-invalidrequest-title' => 'Requête non valide',
+	'clientssl-legend' => 'Authentification SSL',
+	'sslauth-prefs-name' => 'Authentification SSL',
 );
 
 /** Galician (galego)
