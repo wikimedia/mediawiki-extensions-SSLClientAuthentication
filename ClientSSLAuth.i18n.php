@@ -116,9 +116,14 @@ $messages['fr'] = array(
 	'sslauth-cn' => 'Nom usuel',
 	'sslauth-email' => 'Adresse de courriel',
 	'sslauth-serial' => 'Numéro de série',
+	'sslauth-response-enable' => "L'authentification SSL a bien été activée. Désormais, quand vous vous connectez à {{SITENAME}} via HTTPS avec votre certificat client, vous serez automatiquement connecté.",
+	'sslauth-response-disable' => "L'authentification SSL a bien été désactivée.",
 	'sslauth-invalidrequest-title' => 'Requête non valide',
+	'sslauth-invalidrequest' => "Un certificat client SSL valide doit être fourni pour cette page afin d'être utile.",
 	'clientssl-legend' => 'Authentification SSL',
+	'clientssl-text' => "Utiliser cette page en activant/désactivant l'authentification avec les certificats client SSL.",
 	'sslauth-prefs-name' => 'Authentification SSL',
+	'sslauth-prefs-linktospecial' => 'Activer/Désactiver les certificats client',
 );
 
 /** Galician (galego)
