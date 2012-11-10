@@ -263,6 +263,17 @@ $messages['ps'] = array(
 	'sslauth-email' => 'برېښليک پته',
 );
 
+/** Tamil (தமிழ்)
+ * @author மதனாஹரன்
+ */
+$messages['ta'] = array(
+	'sslauth-enable' => 'செயலாக்கு',
+	'sslauth-cn' => 'பொதுப் பெயர்',
+	'sslauth-email' => 'மின்னஞ்சல் முகவரி',
+	'sslauth-serial' => 'தொடரிலக்கம்',
+	'sslauth-invalidrequest-title' => 'செல்லுபடியாகாத வேண்டுகோள்',
+);
+
 /** Telugu (తెలుగు)
  * @author Veeven
  */
