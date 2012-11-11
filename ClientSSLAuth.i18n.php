@@ -148,6 +148,16 @@ $messages['gl'] = array(
 	'sslauth-prefs-linktospecial' => 'Activar ou desactivar os certificados de cliente',
 );
 
+/** Hebrew (עברית)
+ * @author חיים
+ */
+$messages['he'] = array(
+	'sslauth-enable' => 'פעיל',
+	'sslauth-disable' => 'כבוי',
+	'sslauth-email' => 'כתובת דוא"ל',
+	'sslauth-serial' => 'מספר סידורי',
+);
+
 /** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
