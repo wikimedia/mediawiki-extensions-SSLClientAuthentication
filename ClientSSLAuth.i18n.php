@@ -260,11 +260,18 @@ $messages['mk'] = array(
  * @author Siebrand
  */
 $messages['nl'] = array(
+	'sslauth-desc' => 'Maakt het voor gebruikers SSL-certificaten te uploaden om die te gebruiken voor authenticatie',
+	'sslauth-title-enable' => 'SSL Clientauthenticatie inschakelen',
+	'sslauth-title-disable' => 'SSL Clientauthenticatie uitschakelen',
 	'sslauth-enable' => 'Inschakelen',
 	'sslauth-disable' => 'Uitschakelen',
 	'sslauth-cn' => 'Algemene naam',
 	'sslauth-email' => 'E-mailadres',
 	'sslauth-serial' => 'Serienummer',
+	'sslauth-invalidrequest-title' => 'Ongeldige aanvraag',
+	'clientssl-legend' => 'SSL-authenticatie',
+	'sslauth-prefs-name' => 'SSL-authenticatie',
+	'sslauth-prefs-linktospecial' => 'Clientcertificaten in- of uitschakelen',
 );
 
 /** Pashto (پښتو)
