@@ -103,6 +103,13 @@ $messages['es'] = array(
 	'sslauth-prefs-linktospecial' => 'Activar/desactivar certificados de cliente',
 );
 
+/** Finnish (suomi)
+ * @author Nedergard
+ */
+$messages['fi'] = array(
+	'sslauth-email' => 'Sähköpostiosoite',
+);
+
 /** French (français)
  * @author Crochet.david
  * @author Gomoko
