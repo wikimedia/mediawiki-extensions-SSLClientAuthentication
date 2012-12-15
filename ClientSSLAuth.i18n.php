@@ -40,8 +40,10 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
+	'sslauth-desc' => '{{desc|name=SSL Client Authentication|url=http://www.mediawiki.org/wiki/Extension:SSL_authentication}}',
 	'sslauth-title-enable' => 'Title of Special:ClientSSL when ssl-auth is disabled and the user is enabling it.',
 	'sslauth-title-disable' => 'Title of Special:ClientSSL when ssl-auth is enabled and the user is disabling it.',
 	'sslauth-enable' => 'Label for the submit button when enabling. {{Identical|Enable}}',
