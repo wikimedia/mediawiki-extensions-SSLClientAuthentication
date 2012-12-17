@@ -277,8 +277,12 @@ $messages['nl'] = array(
 	'sslauth-cn' => 'Algemene naam',
 	'sslauth-email' => 'E-mailadres',
 	'sslauth-serial' => 'Serienummer',
+	'sslauth-response-enable' => 'SSL-verificatie is ingeschakeld. Als i verbindt met {{SITENAME}} via HTTPS met uw clientcertificaat, wordt u automatisch aangemeld.',
+	'sslauth-response-disable' => 'SSL-verificatie is uitgeschakeld.',
 	'sslauth-invalidrequest-title' => 'Ongeldige aanvraag',
+	'sslauth-invalidrequest' => 'Er moet een geldig SSL clientcertificaat opgegeven worden voordat deze pagina nuttig is.',
 	'clientssl-legend' => 'SSL-authenticatie',
+	'clientssl-text' => 'Gebruik deze pagina om verificatie met SSL clientcertificaten in en uit te schakelen',
 	'sslauth-prefs-name' => 'SSL-authenticatie',
 	'sslauth-prefs-linktospecial' => 'Clientcertificaten in- of uitschakelen',
 );
@@ -309,4 +313,11 @@ $messages['ta'] = array(
 $messages['te'] = array(
 	'sslauth-email' => 'ఈ-మెయిల్ చిరునామా',
 	'sslauth-serial' => 'క్రమ సంఖ్య',
+);
+
+/** Ukrainian (українська)
+ * @author Steve.rusyn
+ */
+$messages['uk'] = array(
+	'sslauth-email' => 'Адреса електронної пошти',
 );
