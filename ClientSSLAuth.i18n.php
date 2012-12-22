@@ -105,6 +105,14 @@ $messages['es'] = array(
 	'sslauth-prefs-linktospecial' => 'Activar/desactivar certificados de cliente',
 );
 
+/** Persian (فارسی)
+ * @author Mjbmr
+ */
+$messages['fa'] = array(
+	'sslauth-enable' => 'فعال سازی',
+	'sslauth-disable' => 'غیرفعال سازی',
+);
+
 /** Finnish (suomi)
  * @author Nedergard
  */
@@ -296,6 +304,17 @@ $messages['ps'] = array(
 	'sslauth-email' => 'برېښليک پته',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'sslauth-enable' => 'සක්‍රීය කරන්න',
+	'sslauth-disable' => 'අක්‍රීය කරන්න',
+	'sslauth-cn' => 'පොදු නම',
+	'sslauth-email' => 'විද්‍යුත්-තැපැල් ලිපිනය',
+	'sslauth-serial' => 'ශ්‍රේණිගත අංකය',
+);
+
 /** Tamil (தமிழ்)
  * @author மதனாஹரன்
  */
@@ -319,5 +338,24 @@ $messages['te'] = array(
  * @author Steve.rusyn
  */
 $messages['uk'] = array(
+	'sslauth-enable' => 'Увімкнути',
+	'sslauth-disable' => 'Вимкнути',
 	'sslauth-email' => 'Адреса електронної пошти',
+	'sslauth-serial' => 'Серійний номер',
+);
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Shirayuki
+ */
+$messages['zh-hans'] = array(
+	'sslauth-enable' => '启用',
+	'sslauth-disable' => '禁用',
+	'sslauth-email' => '电邮地址',
+);
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Shirayuki
+ */
+$messages['zh-hant'] = array(
+	'sslauth-email' => '電郵地址',
 );
