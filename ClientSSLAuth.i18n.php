@@ -305,10 +305,11 @@ $messages['ps'] = array(
 );
 
 /** Sinhala (සිංහල)
+ * @author Singhalawap
  * @author පසිඳු කාවින්ද
  */
 $messages['si'] = array(
-	'sslauth-enable' => 'සක්‍රීය කරන්න',
+	'sslauth-enable' => 'සක්‍රීයකරන්න',
 	'sslauth-disable' => 'අක්‍රීය කරන්න',
 	'sslauth-cn' => 'පොදු නම',
 	'sslauth-email' => 'විද්‍යුත්-තැපැල් ලිපිනය',
@@ -351,11 +352,19 @@ $messages['zh-hans'] = array(
 	'sslauth-enable' => '启用',
 	'sslauth-disable' => '禁用',
 	'sslauth-email' => '电邮地址',
+	'clientssl-legend' => 'SSL认证',
+	'sslauth-prefs-name' => 'SSL认证',
+	'sslauth-prefs-linktospecial' => '启用或禁用客户端证书',
 );
 
 /** Traditional Chinese (中文（繁體）‎)
  * @author Shirayuki
  */
 $messages['zh-hant'] = array(
+	'sslauth-enable' => '啟用',
+	'sslauth-disable' => '禁用',
 	'sslauth-email' => '電郵地址',
+	'clientssl-legend' => 'SSL認證',
+	'sslauth-prefs-name' => 'SSL認證',
+	'sslauth-prefs-linktospecial' => '啟用或禁用客戶端證書',
 );
