@@ -304,6 +304,17 @@ $messages['ps'] = array(
 	'sslauth-email' => 'برېښليک پته',
 );
 
+/** Romanian (română)
+ * @author Minisarm
+ * @author Stelistcristi
+ */
+$messages['ro'] = array(
+	'sslauth-enable' => 'Activeză',
+	'sslauth-disable' => 'Dezactivează',
+	'sslauth-email' => 'Adresă de e-mail',
+	'sslauth-serial' => 'Număr de serie',
+);
+
 /** Sinhala (සිංහල)
  * @author Singhalawap
  * @author පසිඳු කාවින්ද
@@ -337,12 +348,25 @@ $messages['te'] = array(
 
 /** Ukrainian (українська)
  * @author Steve.rusyn
+ * @author Ата
  */
 $messages['uk'] = array(
+	'sslauth-desc' => 'Дозволяє користувачам завантажувати SSL-сертифікати, які будуть використовуватися для автентифікації',
+	'sslauth-title-enable' => 'Увімкнути SSL-автентифікацію користувачів',
+	'sslauth-title-disable' => 'Вимкнути SSL-автентифікацію користувачів',
 	'sslauth-enable' => 'Увімкнути',
 	'sslauth-disable' => 'Вимкнути',
+	'sslauth-cn' => 'Загальна назва',
 	'sslauth-email' => 'Адреса електронної пошти',
 	'sslauth-serial' => 'Серійний номер',
+	'sslauth-response-enable' => "SSL-автентифікацію було успішно увімкнено. Тепер коли б Ви не з'єдувались із {{SITENAME}} через HTTPS зі своїм користувацьким сертифікатом, Ви будете авторматично входити в систему.",
+	'sslauth-response-disable' => 'SSL-автентифікацію було успішно вимкнено.',
+	'sslauth-invalidrequest-title' => 'Неприпустимий запит',
+	'sslauth-invalidrequest' => 'Щоб ця сторінка працювала, необхідно надати дійсний SSL-сертифікат користувача.',
+	'clientssl-legend' => 'SSL-автентифікація',
+	'clientssl-text' => 'На цій сторінці можна увімкнути/вимкнути автентифікацію з допомогою SSL-сертифікату користувача.',
+	'sslauth-prefs-name' => 'SSL-автентифікація',
+	'sslauth-prefs-linktospecial' => 'Увімкнути/Вимкнути сертифікати користувача',
 );
 
 /** Simplified Chinese (中文（简体）‎)
