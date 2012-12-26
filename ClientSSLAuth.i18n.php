@@ -295,6 +295,28 @@ $messages['nl'] = array(
 	'sslauth-prefs-linktospecial' => 'Clientcertificaten in- of uitschakelen',
 );
 
+/** Piedmontese (Piemontèis)
+ * @author Dragonòt
+ */
+$messages['pms'] = array(
+	'sslauth-desc' => "A përmëtt a j'utent ëd carié dij sertificat SSl da dovré për autenticassion",
+	'sslauth-title-enable' => "Abìlita l'Autenticassion Client SSL",
+	'sslauth-title-disable' => "Disabìlita l'Autenticassion Client SSL",
+	'sslauth-enable' => 'Abìlita',
+	'sslauth-disable' => 'Disabìlita',
+	'sslauth-cn' => 'Nòm comun',
+	'sslauth-email' => 'Adrëssa ëd pòsta eletrònica',
+	'sslauth-serial' => 'Nùmer serial',
+	'sslauth-response-enable' => "L'Autenticassion SSL a l'é stàita abilità da bin. Adess quand it conleghe a {{SITENAME}} an HTTPS con tò sertificat client, it intreras automaticament.",
+	'sslauth-response-disable' => "L'Autenticassion SSL a l'é stàita disabilità",
+	'sslauth-invalidrequest-title' => 'Arcesta pa bon-a',
+	'sslauth-invalidrequest' => 'Un sertificat client SSL bon a deuv esse dàit për che sta pagina a sia utilisabla.',
+	'clientssl-legend' => 'Autenticassion SSL',
+	'clientssl-text' => "Dòvra sta pagina për abilité/disabilité l'autenticassion con sertificat client SSL.",
+	'sslauth-prefs-name' => 'Autenticassion SSL',
+	'sslauth-prefs-linktospecial' => 'Abìlita/Disabìlita sertificat client',
+);
+
 /** Pashto (پښتو)
  * @author Ahmed-Najib-Biabani-Ibrahimkhel
  */
@@ -325,6 +347,7 @@ $messages['si'] = array(
 	'sslauth-cn' => 'පොදු නම',
 	'sslauth-email' => 'විද්‍යුත්-තැපැල් ලිපිනය',
 	'sslauth-serial' => 'ශ්‍රේණිගත අංකය',
+	'sslauth-invalidrequest-title' => 'වලංගු නොවන අයදුම',
 );
 
 /** Tamil (தமிழ்)
