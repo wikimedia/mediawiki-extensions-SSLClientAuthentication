@@ -251,6 +251,13 @@ $messages['lb'] = array(
 	'sslauth-prefs-name' => 'SSL-Authentifikatioun',
 );
 
+/** Latvian (latviešu)
+ * @author Papuass
+ */
+$messages['lv'] = array(
+	'sslauth-email' => 'E-pasta adrese',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
