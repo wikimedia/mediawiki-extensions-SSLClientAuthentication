@@ -61,6 +61,19 @@ $messages['qqq'] = array(
 	'sslauth-prefs-linktospecial' => 'Text for the preferences link to Special:ClientSSL.',
 );
 
+/** Czech (česky)
+ * @author Vks
+ */
+$messages['cs'] = array(
+	'sslauth-enable' => 'Povolit',
+	'sslauth-disable' => 'Zakázat',
+	'sslauth-email' => 'E-mailová adresa',
+	'sslauth-serial' => 'Sériové číslo',
+	'sslauth-invalidrequest-title' => 'Neplatný požadavek',
+	'clientssl-legend' => 'Ověřování SSL',
+	'sslauth-prefs-name' => 'Ověřování SSL',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
@@ -355,6 +368,8 @@ $messages['si'] = array(
 	'sslauth-email' => 'විද්‍යුත්-තැපැල් ලිපිනය',
 	'sslauth-serial' => 'ශ්‍රේණිගත අංකය',
 	'sslauth-invalidrequest-title' => 'වලංගු නොවන අයදුම',
+	'clientssl-legend' => 'SSL සහතික කිරීම',
+	'sslauth-prefs-name' => 'SSL සහතික කිරීම',
 );
 
 /** Tamil (தமிழ்)
