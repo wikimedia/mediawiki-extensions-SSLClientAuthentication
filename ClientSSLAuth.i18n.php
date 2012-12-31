@@ -353,8 +353,12 @@ $messages['ps'] = array(
 $messages['ro'] = array(
 	'sslauth-enable' => 'Activeză',
 	'sslauth-disable' => 'Dezactivează',
+	'sslauth-cn' => 'Nume comun',
 	'sslauth-email' => 'Adresă de e-mail',
 	'sslauth-serial' => 'Număr de serie',
+	'sslauth-invalidrequest-title' => 'Cerere invalidă',
+	'sslauth-prefs-name' => 'Autentificare SSL',
+	'sslauth-prefs-linktospecial' => 'Activează/dezactivează certificatele de client',
 );
 
 /** Sinhala (සිංහල)
@@ -362,14 +366,18 @@ $messages['ro'] = array(
  * @author පසිඳු කාවින්ද
  */
 $messages['si'] = array(
+	'sslauth-title-enable' => 'SSL සේවාදායක සත්‍යාපනය සක්‍රිය කරන්න',
+	'sslauth-title-disable' => 'SSL සේවාදායක සත්‍යාපනය අක්‍රිය කරන්න',
 	'sslauth-enable' => 'සක්‍රීයකරන්න',
 	'sslauth-disable' => 'අක්‍රීය කරන්න',
 	'sslauth-cn' => 'පොදු නම',
 	'sslauth-email' => 'විද්‍යුත්-තැපැල් ලිපිනය',
 	'sslauth-serial' => 'ශ්‍රේණිගත අංකය',
+	'sslauth-response-disable' => 'SSL සත්‍යාපනය සාර්ථකව අක්‍රිය කරන ලදී.',
 	'sslauth-invalidrequest-title' => 'වලංගු නොවන අයදුම',
 	'clientssl-legend' => 'SSL සහතික කිරීම',
 	'sslauth-prefs-name' => 'SSL සහතික කිරීම',
+	'sslauth-prefs-linktospecial' => 'සේවාදායක සහතික සක්‍රිය/අක්‍රිය කරන්න',
 );
 
 /** Tamil (தமிழ்)
