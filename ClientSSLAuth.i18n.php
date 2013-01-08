@@ -316,25 +316,26 @@ $messages['nl'] = array(
 );
 
 /** Piedmontese (Piemontèis)
+ * @author Borichèt
  * @author Dragonòt
  */
 $messages['pms'] = array(
-	'sslauth-desc' => "A përmëtt a j'utent ëd carié dij sertificat SSl da dovré për autenticassion",
+	'sslauth-desc' => "A përmët a j'utent ëd carié dij sertificà SSl da dovré për l'autenticassion",
 	'sslauth-title-enable' => "Abìlita l'Autenticassion Client SSL",
 	'sslauth-title-disable' => "Disabìlita l'Autenticassion Client SSL",
 	'sslauth-enable' => 'Abìlita',
 	'sslauth-disable' => 'Disabìlita',
 	'sslauth-cn' => 'Nòm comun',
 	'sslauth-email' => 'Adrëssa ëd pòsta eletrònica',
-	'sslauth-serial' => 'Nùmer serial',
-	'sslauth-response-enable' => "L'Autenticassion SSL a l'é stàita abilità da bin. Adess quand it conleghe a {{SITENAME}} an HTTPS con tò sertificat client, it intreras automaticament.",
+	'sslauth-serial' => 'Nùmer ëd serie',
+	'sslauth-response-enable' => "L'Autenticassion SSL a l'é stàita abilità da bin. Adess quand ch'as colega a {{SITENAME}} an HTTPS con sò sertificà client, a intrerà automaticament ant ël sistema.",
 	'sslauth-response-disable' => "L'Autenticassion SSL a l'é stàita disabilità",
 	'sslauth-invalidrequest-title' => 'Arcesta pa bon-a',
-	'sslauth-invalidrequest' => 'Un sertificat client SSL bon a deuv esse dàit për che sta pagina a sia utilisabla.',
+	'sslauth-invalidrequest' => 'Un sertificà client SSL bon a dev esse fornì për che costa pàgina a sia ùtil.',
 	'clientssl-legend' => 'Autenticassion SSL',
-	'clientssl-text' => "Dòvra sta pagina për abilité/disabilité l'autenticassion con sertificat client SSL.",
+	'clientssl-text' => "Dovré costa pàgina për abilité/disabilité l'autenticassion con ij sertificà client SSL.",
 	'sslauth-prefs-name' => 'Autenticassion SSL',
-	'sslauth-prefs-linktospecial' => 'Abìlita/Disabìlita sertificat client',
+	'sslauth-prefs-linktospecial' => 'Abìlité/Disabilité ij sertificà client',
 );
 
 /** Pashto (پښتو)
