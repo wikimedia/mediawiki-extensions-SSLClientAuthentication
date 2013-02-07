@@ -67,6 +67,7 @@ $messages['qqq'] = array(
 $messages['ca'] = array(
 	'sslauth-enable' => 'Activa',
 	'sslauth-disable' => 'Desactiva',
+	'sslauth-email' => 'Adreça de correu electrònic',
 );
 
 /** Czech (česky)
