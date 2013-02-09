@@ -259,6 +259,17 @@ $messages['ja'] = array(
 	'sslauth-prefs-linktospecial' => 'クライアント証明書を有効化/無効化',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'sslauth-enable' => 'ჩართული',
+	'sslauth-disable' => 'გამორთული',
+	'sslauth-email' => 'ელ. ფოსტის მისამართი',
+	'sslauth-serial' => 'სერიული ნომერი',
+	'sslauth-invalidrequest-title' => 'არასწორი მოთხოვნა',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
