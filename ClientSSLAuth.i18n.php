@@ -61,6 +61,15 @@ $messages['qqq'] = array(
 	'sslauth-prefs-linktospecial' => 'Text for the preferences link to Special:ClientSSL.',
 );
 
+/** Breton (brezhoneg)
+ * @author Fohanno
+ */
+$messages['br'] = array(
+	'sslauth-enable' => 'Gweredekaat',
+	'sslauth-disable' => 'Diweredekaat',
+	'sslauth-email' => "Chomlec'h postel",
+);
+
 /** Catalan (català)
  * @author Pitort
  */
