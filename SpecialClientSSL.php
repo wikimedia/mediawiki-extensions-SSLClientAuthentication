@@ -91,6 +91,7 @@ class SpecialClientSSL extends FormSpecialPage {
 	 * @return Message object
 	 */
 	function getDescription() {
+		// Give grep a chance to find the usages: sslauth-title-enable, sslauth-title-diable
 		$action = $this->enabled ? 'disable' : 'enable';
 		return $this->msg( "sslauth-title-$action" );
 	}
@@ -128,6 +129,7 @@ class SpecialClientSSL extends FormSpecialPage {
 	 * @param $form HTMLForm object
 	 */
 	function alterForm( HTMLForm $form ) {
+		// Give grep a chance to find the usages: sslauth-enable, sslauth-disable
 		$action = $this->enabled ? 'disable' : 'enable';
 		$form->setSubmitTextMsg( "sslauth-$action" );
 	}
@@ -152,6 +154,7 @@ class SpecialClientSSL extends FormSpecialPage {
 	 * Display a brief success message.
 	 */
 	function onSuccess() {
+		// Give grep a chance to find the usages: sslauth-response-enable, sslauth-response-disable
 		$action = $this->enabled ? 'disable' : 'enable';
 		$this->getOutput()->addWikiMsg( "sslauth-response-$action" );
 	}
