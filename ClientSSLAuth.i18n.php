@@ -210,6 +210,7 @@ $messages['he'] = array(
  * @author Michawiki
  */
 $messages['hsb'] = array(
+	'sslauth-desc' => 'Zmóžnja wužiwarjam SSL-certifikaty nahrać, kotrež maja so za awtentifikaciju wužiwać',
 	'sslauth-title-enable' => 'Klientowu SSL-awtentifikaciju zmóžnić',
 	'sslauth-title-disable' => 'Klientowu SSL-awtentifikaciju znjemóžnić',
 	'sslauth-enable' => 'Zmóžnić',
@@ -217,9 +218,12 @@ $messages['hsb'] = array(
 	'sslauth-cn' => 'Powšitkowne mjeno',
 	'sslauth-email' => 'E-mejlowa adresa',
 	'sslauth-serial' => 'Serijowe čisło',
+	'sslauth-response-enable' => 'SSL-awtentifikacija je so wuspěšnje zmóžniła. Hdyžkuli zwjazuješ přez HTTPS z {{GRAMMAR:instrumental|{{SITENAME}}}} ze swojim klientowym certifikatom, budźeš so nětko awtomatisce přizjewjeć.',
 	'sslauth-response-disable' => 'SSL-awtentifikacija je so wuspěšnje znjemóžniła.',
 	'sslauth-invalidrequest-title' => 'Njepłaćiwe naprašowanje',
+	'sslauth-invalidrequest' => 'Za tutu stronu dyrbi so płaćiwy klientowy SSL-certifikat podać.',
 	'clientssl-legend' => 'SSL-awtentifikacija',
+	'clientssl-text' => 'Wužij tutu stronu, zo by awtentifikaciju z klientowymi SSL-certifikatami zmóžnił/znjemóžnił.',
 	'sslauth-prefs-name' => 'SSL-awtentifikacija',
 	'sslauth-prefs-linktospecial' => 'Klientowe certifikaty zmóžnić/znjemóžnić',
 );
