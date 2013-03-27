@@ -44,8 +44,16 @@ $messages['en'] = array(
  */
 $messages['qqq'] = array(
 	'sslauth-desc' => '{{desc|name=SSL Client Authentication|url=http://www.mediawiki.org/wiki/Extension:SSL_authentication}}',
-	'sslauth-title-enable' => 'Title of Special:ClientSSL when ssl-auth is disabled and the user is enabling it.',
-	'sslauth-title-disable' => 'Title of Special:ClientSSL when ssl-auth is enabled and the user is disabling it.',
+	'sslauth-title-enable' => '{{doc-special|ClientSSL|unlisted=1}}
+Used when ssl-auth is disabled and the user is enabling it.
+
+See also:
+* {{msg-mw|Sslauth-title-disable}}',
+	'sslauth-title-disable' => '{{doc-special|ClientSSL|unlisted=1}}
+Used when ssl-auth is enabled and the user is disabling it.
+
+See also:
+* {{msg-mw|Sslauth-title-enable}}',
 	'sslauth-enable' => 'Label for the submit button when enabling. {{Identical|Enable}}',
 	'sslauth-disable' => 'Label for the submit button when disabling. {{Identical|Disable}}',
 	'sslauth-cn' => 'Label for the CN (Common Name) field of the SSL certificate.',
