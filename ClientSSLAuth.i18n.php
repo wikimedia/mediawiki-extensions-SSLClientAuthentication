@@ -334,6 +334,13 @@ $messages['mk'] = array(
 	'sslauth-prefs-linktospecial' => 'Овозможи/Оневозможи клиентски уверенија',
 );
 
+/** Low German (Plattdüütsch)
+ * @author Joachim Mos
+ */
+$messages['nds'] = array(
+	'sslauth-email' => 'E-Mail-Adress',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */
