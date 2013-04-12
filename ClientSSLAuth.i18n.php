@@ -154,9 +154,11 @@ $messages['fa'] = array(
 
 /** Finnish (suomi)
  * @author Nedergard
+ * @author Silvonen
  */
 $messages['fi'] = array(
 	'sslauth-email' => 'Sähköpostiosoite',
+	'sslauth-serial' => 'Sarjanumero',
 );
 
 /** French (français)
