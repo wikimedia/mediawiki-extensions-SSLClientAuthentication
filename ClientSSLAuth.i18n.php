@@ -413,6 +413,20 @@ $messages['ro'] = array(
 	'sslauth-prefs-linktospecial' => 'Activează/dezactivează certificatele de client',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'sslauth-enable' => 'Abbilite',
+	'sslauth-disable' => 'Disabbilite',
+	'sslauth-cn' => 'Nome comune',
+	'sslauth-email' => 'Indirizze e-mail',
+	'sslauth-serial' => 'Numere seriale',
+	'sslauth-invalidrequest-title' => 'Richieste invalide',
+	'clientssl-legend' => 'Autendicazione SSL',
+	'sslauth-prefs-name' => 'Autendicazione SSL',
+);
+
 /** Sinhala (සිංහල)
  * @author Singhalawap
  * @author පසිඳු කාවින්ද
