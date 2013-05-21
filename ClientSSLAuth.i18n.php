@@ -294,6 +294,23 @@ $messages['ka'] = array(
 	'sslauth-invalidrequest-title' => 'არასწორი მოთხოვნა',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'sslauth-desc' => 'Löht de Metmaacher <i lang"en" title="secure socket layer">SSL</i>-Zättifikaate huh laade, di för et  Authentication jebruch wääde.', # Fuzzy
+	'sslauth-title-enable' => 'De Metmaacher övver <i lang"en" title="secure socket layer">SSL</i> Authenticate lohße', # Fuzzy
+	'sslauth-title-disable' => 'De Metmaacher nit övver <i lang"en" title="secure socket layer">SSL</i> Authenticate lohße', # Fuzzy
+	'sslauth-enable' => 'Enschallde',
+	'sslauth-disable' => 'Ußschallde',
+	'sslauth-cn' => 'Der alljemeine Nahme',
+	'sslauth-email' => 'De Addräß för de <i lang="en">e-mail</i>',
+	'sslauth-serial' => 'Seerieje_Nommer',
+	'sslauth-invalidrequest-title' => 'En önjöltejje Aanfrooch',
+	'sslauth-invalidrequest' => 'E jöltesch <i lang"en" title="secure socket layer">SSL</i>-Zättifikaat es nüüdesch, domet heh di Sigg ene Senn hät.',
+	'sslauth-prefs-linktospecial' => 'De metmaacher ier Zättifikaate en- udder ußschallde',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
