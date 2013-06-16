@@ -315,6 +315,7 @@ $messages['ksh'] = array(
  * @author Robby
  */
 $messages['lb'] = array(
+	'sslauth-desc' => 'Erméiglecht et de Benotzer fir SSL-Zertifikaten eropzeluede fir se fir Authentifizéierung ze benotzen',
 	'sslauth-enable' => 'Aschalten',
 	'sslauth-disable' => 'Ausschalten',
 	'sslauth-cn' => 'Allgemengen Numm',
