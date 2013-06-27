@@ -435,14 +435,19 @@ $messages['ro'] = array(
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
+	'sslauth-desc' => "Permette a l'utinde de carecà le certificate SSL da essere ausate pe l'autendicazione",
+	'sslauth-title-enable' => "Abbilite l'autendicazione SSL d'u client",
+	'sslauth-title-disable' => "Disabbilite l'autendicazione SSL d'u client",
 	'sslauth-enable' => 'Abbilite',
 	'sslauth-disable' => 'Disabbilite',
 	'sslauth-cn' => 'Nome comune',
 	'sslauth-email' => 'Indirizze e-mail',
 	'sslauth-serial' => 'Numere seriale',
+	'sslauth-response-disable' => "L'autendicazione SSL ha state disabbilitate.",
 	'sslauth-invalidrequest-title' => 'Richieste invalide',
 	'clientssl-legend' => 'Autendicazione SSL',
 	'sslauth-prefs-name' => 'Autendicazione SSL',
+	'sslauth-prefs-linktospecial' => "Abbilite/Disabbilite le certificate d'u client",
 );
 
 /** Sinhala (සිංහල)
