@@ -443,9 +443,12 @@ $messages['roa-tara'] = array(
 	'sslauth-cn' => 'Nome comune',
 	'sslauth-email' => 'Indirizze e-mail',
 	'sslauth-serial' => 'Numere seriale',
+	'sslauth-response-enable' => "L'autendicazione SSL ha state abbilitate. Mò addò 'ngada stè te puè collegà a {{SITENAME}} sus a HTTPS cu 'u certificate de client, tu automaticamende trase.",
 	'sslauth-response-disable' => "L'autendicazione SSL ha state disabbilitate.",
 	'sslauth-invalidrequest-title' => 'Richieste invalide',
+	'sslauth-invalidrequest' => "'Nu certificate de client SSL valide adda essere date pe sta pàgene pe essere utile.",
 	'clientssl-legend' => 'Autendicazione SSL',
+	'clientssl-text' => "Ause sta pàgene pe abbilità/disabbilità l'autendicazione cu le certificate de client SSL.",
 	'sslauth-prefs-name' => 'Autendicazione SSL',
 	'sslauth-prefs-linktospecial' => "Abbilite/Disabbilite le certificate d'u client",
 );
