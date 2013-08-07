@@ -313,13 +313,14 @@ $messages['ksh'] = array(
 
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
+ * @author Soued031
  */
 $messages['lb'] = array(
 	'sslauth-desc' => 'Erméiglecht et de Benotzer fir SSL-Zertifikaten eropzeluede fir se fir Authentifizéierung ze benotzen',
 	'sslauth-enable' => 'Aschalten',
 	'sslauth-disable' => 'Ausschalten',
 	'sslauth-cn' => 'Allgemengen Numm',
-	'sslauth-email' => 'E-Mailadress',
+	'sslauth-email' => 'E-Mail-Adress',
 	'sslauth-serial' => 'Seriennummer',
 	'sslauth-invalidrequest-title' => 'Net-valabel Ufro',
 	'clientssl-legend' => 'SSL-Authentifikatioun',
