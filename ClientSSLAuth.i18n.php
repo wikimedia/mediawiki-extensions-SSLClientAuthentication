@@ -454,6 +454,22 @@ $messages['roa-tara'] = array(
 	'sslauth-prefs-linktospecial' => "Abbilite/Disabbilite le certificate d'u client",
 );
 
+/** Russian (русский)
+ * @author Okras
+ */
+$messages['ru'] = array(
+	'sslauth-desc' => 'Позволяет пользователям загружать SSL-сертификаты для их использования при аутентификации',
+	'sslauth-title-enable' => 'Включить SSL-аутентификацию клиента',
+	'sslauth-title-disable' => 'Отключить SSL-аутентификацию клиента',
+	'sslauth-enable' => 'Включить',
+	'sslauth-disable' => 'Выключить',
+	'sslauth-email' => 'Адрес электронной почты',
+	'sslauth-serial' => 'Серийный номер',
+	'sslauth-invalidrequest-title' => 'Неверный запрос',
+	'clientssl-legend' => 'SSL-аутентификация',
+	'sslauth-prefs-name' => 'SSL-аутентификация',
+);
+
 /** Sinhala (සිංහල)
  * @author Singhalawap
  * @author පසිඳු කාවින්ද
