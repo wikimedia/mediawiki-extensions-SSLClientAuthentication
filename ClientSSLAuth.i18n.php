@@ -56,7 +56,8 @@ See also:
 * {{msg-mw|Sslauth-title-enable}}',
 	'sslauth-enable' => 'Label for the submit button when enabling. {{Identical|Enable}}',
 	'sslauth-disable' => 'Label for the submit button when disabling. {{Identical|Disable}}',
-	'sslauth-cn' => 'Label for the CN (Common Name) field of the SSL certificate.',
+	'sslauth-cn' => 'Label for the CN (Common Name) field of the SSL certificate.
+{{Identical|Common name}}',
 	'sslauth-email' => 'Label for the e-mail field of the SSL certificate.
 {{Identical|E-mail address}}',
 	'sslauth-serial' => 'Label for the serial number field of the SSL certificate.',
