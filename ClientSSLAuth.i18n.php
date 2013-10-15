@@ -56,7 +56,8 @@ See also:
 * {{msg-mw|Sslauth-title-enable}}',
 	'sslauth-enable' => 'Label for the submit button when enabling. {{Identical|Enable}}',
 	'sslauth-disable' => 'Label for the submit button when disabling. {{Identical|Disable}}',
-	'sslauth-cn' => 'Label for the CN (Common Name) field of the SSL certificate.',
+	'sslauth-cn' => 'Label for the CN (Common Name) field of the SSL certificate.
+{{Identical|Common name}}',
 	'sslauth-email' => 'Label for the e-mail field of the SSL certificate.
 {{Identical|E-mail address}}',
 	'sslauth-serial' => 'Label for the serial number field of the SSL certificate.',
@@ -463,11 +464,17 @@ $messages['ru'] = array(
 	'sslauth-title-disable' => 'Отключить SSL-аутентификацию клиента',
 	'sslauth-enable' => 'Включить',
 	'sslauth-disable' => 'Выключить',
+	'sslauth-cn' => 'Общее имя',
 	'sslauth-email' => 'Адрес электронной почты',
 	'sslauth-serial' => 'Серийный номер',
+	'sslauth-response-enable' => 'Проверка подлинности SSL успешно включена. Теперь при каждом подключении к {{SITENAME}} по протоколу HTTPS с сертификатом клиента, вы автоматически входить на сайт.',
+	'sslauth-response-disable' => 'Проверка подлинности SSL успешно отключена.',
 	'sslauth-invalidrequest-title' => 'Неверный запрос',
+	'sslauth-invalidrequest' => 'Для использования на этой странице должен быть предоставлен действительный SSL-сертификат клиента.',
 	'clientssl-legend' => 'SSL-аутентификация',
+	'clientssl-text' => 'Используйте эту страницу, чтобы включить или отключить проверку подлинности с помощью клиентского SSL-сертификата.',
 	'sslauth-prefs-name' => 'SSL-аутентификация',
+	'sslauth-prefs-linktospecial' => 'Включить/отключить клиентские сертификаты',
 );
 
 /** Sinhala (සිංහල)
