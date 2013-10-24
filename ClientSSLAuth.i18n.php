@@ -496,6 +496,25 @@ $messages['si'] = array(
 	'sslauth-prefs-linktospecial' => 'සේවාදායක සහතික සක්‍රිය/අක්‍රිය කරන්න',
 );
 
+/** Swedish (svenska)
+ * @author Jopparn
+ */
+$messages['sv'] = array(
+	'sslauth-enable' => 'Aktivera',
+	'sslauth-disable' => 'Inaktivera',
+	'sslauth-cn' => 'Common name',
+	'sslauth-email' => 'E-postadress',
+	'sslauth-serial' => 'Serienummer',
+	'sslauth-response-enable' => 'SSL-autentisering har aktiverats. När du nu ansluter till {{SITENAME}} över HTTPS med ditt klientcertifikat kommer du automatiskt att vara inloggad.',
+	'sslauth-response-disable' => 'SSL-autentisering har framgångsrikt inaktiverats.',
+	'sslauth-invalidrequest-title' => 'Ogiltig begäran',
+	'sslauth-invalidrequest' => 'Ett giltigt SSL-klientcertifikat måste tillhandahållas för att den här sidan ska vara användbar.',
+	'clientssl-legend' => 'SSL-autentisering',
+	'clientssl-text' => 'Använd den här sidan att aktivera/inaktivera autentisering med SSL-klientcertifikat.',
+	'sslauth-prefs-name' => 'SSL-autentisering',
+	'sslauth-prefs-linktospecial' => 'Aktivera/inaktivera klientcertifikat',
+);
+
 /** Tamil (தமிழ்)
  * @author மதனாஹரன்
  */
