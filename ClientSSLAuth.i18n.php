@@ -340,11 +340,13 @@ $messages['ksh'] = array(
  */
 $messages['lb'] = array(
 	'sslauth-desc' => 'Erméiglecht et de Benotzer fir SSL-Zertifikaten eropzeluede fir se fir Authentifizéierung ze benotzen',
+	'sslauth-title-enable' => 'SSL-Client-Authentifizéierung aktivéieren',
 	'sslauth-enable' => 'Aschalten',
 	'sslauth-disable' => 'Ausschalten',
 	'sslauth-cn' => 'Allgemengen Numm',
 	'sslauth-email' => 'E-Mail-Adress',
 	'sslauth-serial' => 'Seriennummer',
+	'sslauth-response-disable' => "D'SSL-Authentifizéierung gouf desaktivéiert.",
 	'sslauth-invalidrequest-title' => 'Net-valabel Ufro',
 	'clientssl-legend' => 'SSL-Authentifikatioun',
 	'sslauth-prefs-name' => 'SSL-Authentifikatioun',
