@@ -113,7 +113,7 @@ $messages['ca'] = array(
 	'sslauth-email' => 'Adreça de correu electrònic',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Vks
  */
 $messages['cs'] = array(
