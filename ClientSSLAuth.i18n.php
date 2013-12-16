@@ -113,6 +113,13 @@ $messages['ca'] = array(
 	'sslauth-email' => 'Adreça de correu electrònic',
 );
 
+/** Chechen (нохчийн)
+ * @author Умар
+ */
+$messages['ce'] = array(
+	'sslauth-enable' => 'Юкъадаладе',
+);
+
 /** Czech (čeština)
  * @author Vks
  */
