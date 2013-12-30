@@ -179,10 +179,12 @@ $messages['es'] = array(
 
 /** Persian (فارسی)
  * @author Mjbmr
+ * @author Reza1615
  */
 $messages['fa'] = array(
 	'sslauth-enable' => 'فعال سازی',
 	'sslauth-disable' => 'غیرفعال سازی',
+	'sslauth-email' => 'نشانی پست الکترونیکی',
 );
 
 /** Finnish (suomi)
