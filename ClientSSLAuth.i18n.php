@@ -328,6 +328,13 @@ $messages['ka'] = array(
 	'sslauth-invalidrequest-title' => 'არასწორი მოთხოვნა',
 );
 
+/** Korean (한국어)
+ * @author Priviet
+ */
+$messages['ko'] = array(
+	'sslauth-response-enable' => 'SSL 인증이 성공적으로 활성화됐습니다. 지금부터 클라이언트 인증서를 가지고 있으면 HTTPS를 통해 {{SITENAME}}에 접속할 때마다 자동으로 로그인됩니다.',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
