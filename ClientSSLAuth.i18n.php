@@ -179,6 +179,7 @@ $messages['es'] = array(
 
 /** Persian (فارسی)
  * @author Armin1392
+ * @author Ebraminio
  * @author Mjbmr
  * @author Reza1615
  */
@@ -186,7 +187,7 @@ $messages['fa'] = array(
 	'sslauth-enable' => 'فعال سازی',
 	'sslauth-disable' => 'غیرفعال سازی',
 	'sslauth-cn' => 'نام معمولی',
-	'sslauth-email' => 'نشانی پست الکترونیکی',
+	'sslauth-email' => 'نشانی رایانامه',
 	'sslauth-serial' => 'شماره سریال',
 	'sslauth-invalidrequest-title' => 'درخواست نامعتبر',
 	'clientssl-legend' => 'تأییدیهٔ اس‌اس‌ال',
