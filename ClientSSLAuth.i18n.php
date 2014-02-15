@@ -450,6 +450,16 @@ $messages['nl'] = array(
 	'sslauth-prefs-linktospecial' => 'Clientcertificaten in- of uitschakelen',
 );
 
+/** Polish (polski)
+ * @author Chrumps
+ */
+$messages['pl'] = array(
+	'sslauth-email' => 'Adres e‐mail',
+	'sslauth-serial' => 'Numer seryjny',
+	'clientssl-legend' => 'Uwierzytelnianie SSL',
+	'sslauth-prefs-name' => 'Uwierzytelnianie SSL',
+);
+
 /** Piedmontese (Piemontèis)
  * @author Borichèt
  * @author Dragonòt
