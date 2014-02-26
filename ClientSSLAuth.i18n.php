@@ -184,6 +184,8 @@ $messages['es'] = array(
  * @author Reza1615
  */
 $messages['fa'] = array(
+	'sslauth-title-enable' => 'فعال کردن اعتبارنامهٔ مشتری اس‌اس‌ال',
+	'sslauth-title-disable' => 'غیرفعال کردن اعتبارنامهٔ مشتری اس‌اس‌ال',
 	'sslauth-enable' => 'فعال سازی',
 	'sslauth-disable' => 'غیرفعال سازی',
 	'sslauth-cn' => 'نام معمولی',
