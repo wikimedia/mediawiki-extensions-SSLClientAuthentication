@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Pitort"
+        ]
+    },
+    "sslauth-enable": "Activa",
+    "sslauth-disable": "Desactiva",
+    "sslauth-email": "Adreça de correu electrònic"
+}

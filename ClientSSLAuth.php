@@ -1,5 +1,4 @@
 <?php
-
 /**
  * MediaWiki extension to allow client SSL authentication.
  * Copyright (C) 2012 Tyler Romeo <tylerromeo@gmail.com>
@@ -25,7 +24,7 @@ $wgExtensionCredits['other'][] = array(
 	'author' => 'Tyler Romeo',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:SSLClientAuthentication',
 	'descriptionmsg' => 'sslauth-desc',
-	'version' => 0.5,
+	'version' => '0.6.0',
 );
 
 // Configuration variables
@@ -71,6 +70,7 @@ $wgHooks['UserLoadFromSession'][] = 'efClientSSLCheckSession';
 $wgHooks['AbortLogin'][] = 'efClientSSLAbortLogin';
 $wgHooks['LoadExtensionSchemaUpdates'][] = 'efClientSSLSchemaUpdates';
 
+$wgMessagesDirs['ClientSSL'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['ClientSSL'] = $wgClientSSLDir . 'ClientSSLAuth.i18n.php';
 $wgExtensionMessagesFiles['ClientSSLAlias'] = $wgClientSSLDir . 'ClientSSLAuth.alias.php';
 
