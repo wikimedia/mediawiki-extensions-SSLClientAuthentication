@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Fohanno"
-        ]
-    },
-    "sslauth-enable": "Gweredekaat",
-    "sslauth-disable": "Diweredekaat",
-    "sslauth-email": "Chomlec'h postel"
+	"@metadata": {
+		"authors": [
+			"Fohanno"
+		]
+	},
+	"sslauth-enable": "Gweredekaat",
+	"sslauth-disable": "Diweredekaat",
+	"sslauth-email": "Chomlec'h postel"
 }

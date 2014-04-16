@@ -1,23 +1,23 @@
 {
-    "@metadata": {
-        "authors": [
-            "Xuacu"
-        ]
-    },
-    "sslauth-desc": "Permite a los usuarios xubir certificaos SSL pa usalos na identificación",
-    "sslauth-title-enable": "Activar la identificación de cliente con SSL",
-    "sslauth-title-disable": "Desactivar la identificación de cliente con SSL",
-    "sslauth-enable": "Activar",
-    "sslauth-disable": "Desactivar",
-    "sslauth-cn": "Nome común",
-    "sslauth-email": "Direición de corréu electrónicu",
-    "sslauth-serial": "Númberu de serie",
-    "sslauth-response-enable": "La identificación con SSL activóse correutamente. Agora, cuando se coneute a {{SITENAME}} per HTTPS col so certificáu de cliente, aniciará sesión automaticamente.",
-    "sslauth-response-disable": "La identificación con SSL desactivóse correutamente.",
-    "sslauth-invalidrequest-title": "Solicitú inválida",
-    "sslauth-invalidrequest": "Tien de dase un certificáu de cliente SSL pa qu'esta páxina seya útil.",
-    "clientssl-legend": "Identificación SSL",
-    "clientssl-text": "Use esta páxina p'activar o desactivar la identificación con certificaos de cliente SSL.",
-    "sslauth-prefs-name": "Identificación SSL",
-    "sslauth-prefs-linktospecial": "Activar/desactivar los certificaos de cliente"
+	"@metadata": {
+		"authors": [
+			"Xuacu"
+		]
+	},
+	"sslauth-desc": "Permite a los usuarios xubir certificaos SSL pa usalos na identificación",
+	"sslauth-title-enable": "Activar la identificación de cliente con SSL",
+	"sslauth-title-disable": "Desactivar la identificación de cliente con SSL",
+	"sslauth-enable": "Activar",
+	"sslauth-disable": "Desactivar",
+	"sslauth-cn": "Nome común",
+	"sslauth-email": "Direición de corréu electrónicu",
+	"sslauth-serial": "Númberu de serie",
+	"sslauth-response-enable": "La identificación con SSL activóse correutamente. Agora, cuando se coneute a {{SITENAME}} per HTTPS col so certificáu de cliente, aniciará sesión automaticamente.",
+	"sslauth-response-disable": "La identificación con SSL desactivóse correutamente.",
+	"sslauth-invalidrequest-title": "Solicitú inválida",
+	"sslauth-invalidrequest": "Tien de dase un certificáu de cliente SSL pa qu'esta páxina seya útil.",
+	"clientssl-legend": "Identificación SSL",
+	"clientssl-text": "Use esta páxina p'activar o desactivar la identificación con certificaos de cliente SSL.",
+	"sslauth-prefs-name": "Identificación SSL",
+	"sslauth-prefs-linktospecial": "Activar/desactivar los certificaos de cliente"
 }

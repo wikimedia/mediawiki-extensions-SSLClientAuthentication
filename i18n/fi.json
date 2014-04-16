@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Nedergard",
-            "Silvonen"
-        ]
-    },
-    "sslauth-email": "Sähköpostiosoite",
-    "sslauth-serial": "Sarjanumero"
+	"@metadata": {
+		"authors": [
+			"Nedergard",
+			"Silvonen"
+		]
+	},
+	"sslauth-email": "Sähköpostiosoite",
+	"sslauth-serial": "Sarjanumero"
 }
