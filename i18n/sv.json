@@ -1,9 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jopparn"
+			"Jopparn",
+			"Lokal Profil"
 		]
 	},
+	"sslauth-desc": "Tillåt användare att ladda upp SSL-certifikat för användning vid autentisering",
+	"sslauth-title-enable": "Aktivera SSL-klientautentisering",
+	"sslauth-title-disable": "Inaktivera SSL-klientautentisering",
 	"sslauth-enable": "Aktivera",
 	"sslauth-disable": "Inaktivera",
 	"sslauth-cn": "Common name",
