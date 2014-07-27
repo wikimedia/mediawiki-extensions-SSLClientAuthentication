@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Justincheng12345",
-			"Shirayuki"
+			"Shirayuki",
+			"LNDDYL"
 		]
 	},
 	"sslauth-desc": "容許抈戶上傳用作身份驗證的SSL憑證",
@@ -11,7 +12,7 @@
 	"sslauth-enable": "啟用",
 	"sslauth-disable": "禁用",
 	"sslauth-cn": "通用名稱",
-	"sslauth-email": "電郵地址",
+	"sslauth-email": "電郵位址",
 	"sslauth-serial": "序列號",
 	"sslauth-response-enable": "已成功啟用SSL身份驗証。當您通過HTTPS使用您的用戶端憑證連接到 {{SITENAME}}時，您將自動登入。",
 	"sslauth-response-disable": "已成功禁用SSL身份驗証。",
