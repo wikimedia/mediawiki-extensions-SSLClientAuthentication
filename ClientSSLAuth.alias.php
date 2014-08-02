@@ -5,10 +5,11 @@
  * @file
  * @ingroup Extensions
  */
+// @codingStandardsIgnoreFile
 
 $specialPageAliases = array();
 
 /** English (English) */
-$specialPageAliases[ 'en' ] = array(
-        'ClientSSL' => array( 'ClientSSL' ),
+$specialPageAliases['en'] = array(
+	'ClientSSL' => array( 'ClientSSL' ),
 );
