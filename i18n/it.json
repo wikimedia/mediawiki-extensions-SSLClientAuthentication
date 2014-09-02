@@ -10,7 +10,7 @@
 	"sslauth-enable": "Abilita",
 	"sslauth-disable": "Disabilita",
 	"sslauth-cn": "Nome comune",
-	"sslauth-email": "Indirizzo e-mail",
+	"sslauth-email": "Indirizzo email",
 	"sslauth-serial": "Numero di serie",
 	"sslauth-response-enable": "L'autenticazione SSL è stata attivata con successo. Ora ogni volta che ti connetti a {{SITENAME}} su HTTPS con il tuo certificato client, verrà effettuato automaticamente l'accesso.",
 	"sslauth-response-disable": "L'autenticazione SSL è stata disabilitata con successo.",
