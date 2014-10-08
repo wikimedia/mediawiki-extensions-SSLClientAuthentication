@@ -24,16 +24,16 @@
  * @author Tyler Romeo <tylerromeo@gmail.com>
  */
 class SSLCertificateTable extends ORMTable {
+	public function __construct() {
+		$this->fieldPrefix = 'ssl_';
+	}
+
 	function getName() {
 		return 'sslcerts';
 	}
 
 	function getRowClass() {
 		return 'SSLCertificate';
-	}
-
-	function getFieldPrefix() {
-		return 'ssl_';
 	}
 
 	function getFields() {
