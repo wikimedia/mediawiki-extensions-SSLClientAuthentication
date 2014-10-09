@@ -19,6 +19,11 @@ $specialPageAliases['de'] = array(
 	'ClientSSL' => array( 'Benutzerdefiniertes_SSL' ),
 );
 
+/** Korean (한국어) */
+$specialPageAliases['ko'] = array(
+	'ClientSSL' => array( '클라이언트SSL' ),
+);
+
 /** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'ClientSSL' => array( 'КлинетскиSSL' ),
