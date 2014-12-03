@@ -14,6 +14,11 @@ $specialPageAliases['en'] = array(
 	'ClientSSL' => array( 'ClientSSL' ),
 );
 
+/** Arabic (العربية) */
+$specialPageAliases['ar'] = array(
+	'ClientSSL' => array( 'إس_إس_إل_عميل' ),
+);
+
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'ClientSSL' => array( 'Benutzerdefiniertes_SSL' ),
