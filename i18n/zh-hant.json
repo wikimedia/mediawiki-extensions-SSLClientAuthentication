@@ -7,7 +7,7 @@
 			"Cwlin0416"
 		]
 	},
-	"sslauth-desc": "容許抈戶上傳用作身份驗證的SSL憑證",
+	"sslauth-desc": "容許使用者上傳用作身份驗證的SSL憑證",
 	"sslauth-title-enable": "啟用SSL用戶端身份驗證",
 	"sslauth-title-disable": "禁用SSL用戶端身份驗證",
 	"sslauth-enable": "啟用",
