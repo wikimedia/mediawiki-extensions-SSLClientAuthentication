@@ -22,5 +22,5 @@
 	"clientssl-legend": "SSL認證",
 	"clientssl-text": "使用此頁以啟用或禁用SSL用戶端身份驗證。",
 	"sslauth-prefs-name": "SSL認證",
-	"sslauth-prefs-linktospecial": "啟用或禁用用戶端證書"
+	"sslauth-prefs-linktospecial": "啟用或停用用戶端憑證"
 }
