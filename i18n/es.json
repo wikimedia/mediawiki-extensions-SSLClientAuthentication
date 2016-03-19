@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Armando-Martin",
-			"Matiia"
+			"Matiia",
+			"Macofe"
 		]
 	},
 	"sslauth-desc": "Permite a los usuarios subir certificados SSL para usarlos en la autenticación",
@@ -13,7 +14,7 @@
 	"sslauth-cn": "Nombre común",
 	"sslauth-email": "Dirección de correo electrónico",
 	"sslauth-serial": "Número de serie",
-	"sslauth-response-enable": "La autenticación mediante SSL se ha activado. Ahora cuando se conecte a {{SITENAME}} mediante HTTPS con su certificado de cliente accederás al sistema automáticamente.",
+	"sslauth-response-enable": "La autenticación mediante SSL se ha activado. Ahora, cuando te conectes a {{SITENAME}} mediante HTTPS con tu certificado de cliente, accederás al sistema automáticamente.",
 	"sslauth-response-disable": "La autenticación mediante SSL se ha desactivado.",
 	"sslauth-invalidrequest-title": "Solicitud inválida",
 	"sslauth-invalidrequest": "Debe proporcionar un certificado válido de cliente SSL para que esta página sea útil.",
