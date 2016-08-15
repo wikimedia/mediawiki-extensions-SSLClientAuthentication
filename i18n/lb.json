@@ -12,7 +12,7 @@
 	"sslauth-cn": "Allgemengen Numm",
 	"sslauth-email": "E-Mail-Adress",
 	"sslauth-serial": "Seriennummer",
-	"sslauth-response-disable": "D'SSL-Authentifizéierung gouf desaktivéiert.",
+	"sslauth-response-disable": "D'SSL-Authentifikatioun gouf desaktivéiert.",
 	"sslauth-invalidrequest-title": "Net-valabel Ufro",
 	"clientssl-legend": "SSL-Authentifikatioun",
 	"sslauth-prefs-name": "SSL-Authentifikatioun"
