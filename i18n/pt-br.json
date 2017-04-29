@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Felipe L. Ewald"
+		]
+	},
+	"sslauth-enable": "Ativar",
+	"sslauth-disable": "Desativar",
+	"sslauth-cn": "Nome comum",
+	"sslauth-email": "Endereço de e-mail",
+	"sslauth-serial": "Número de série"
+}
