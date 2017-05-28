@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Crochet.david",
-			"Gomoko"
+			"Gomoko",
+			"Urhixidur"
 		]
 	},
-	"sslauth-desc": "Permet aux utilisateurs de télécharger des certificats SSL à utiliser pour l'authentification",
+	"sslauth-desc": "Permet aux utilisateurs de téléverser des certificats SSL à utiliser pour l'authentification",
 	"sslauth-title-enable": "Activer l'authentification client SSL",
 	"sslauth-title-disable": "Désactiver l'authentification client SSL",
 	"sslauth-enable": "Activer",
