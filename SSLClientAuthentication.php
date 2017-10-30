@@ -71,7 +71,6 @@ $wgHooks['AbortLogin'][] = 'efClientSSLAbortLogin';
 $wgHooks['LoadExtensionSchemaUpdates'][] = 'efClientSSLSchemaUpdates';
 
 $wgMessagesDirs['ClientSSL'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['ClientSSL'] = $wgClientSSLDir . 'ClientSSLAuth.i18n.php';
 $wgExtensionMessagesFiles['ClientSSLAlias'] = $wgClientSSLDir . 'ClientSSLAuth.alias.php';
 
 /**
