@@ -4,5 +4,6 @@
 			"Ильнар"
 		]
 	},
-	"sslauth-enable": "Ачу"
+	"sslauth-enable": "Кабызу",
+	"sslauth-disable": "Сүндерү"
 }
