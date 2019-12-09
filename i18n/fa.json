@@ -4,13 +4,14 @@
 			"Armin1392",
 			"Ebraminio",
 			"Mjbmr",
-			"Reza1615"
+			"Reza1615",
+			"Huji"
 		]
 	},
 	"sslauth-desc": "اجازه به کاربران برای انتقال گواهینامه‌های سی اس‌اس‌ال برای استفاده شدن برای اعتبارنامه",
 	"sslauth-title-enable": "فعال کردن اعتبارنامهٔ مشتری اس‌اس‌ال",
 	"sslauth-title-disable": "غیرفعال کردن اعتبارنامهٔ مشتری اس‌اس‌ال",
-	"sslauth-enable": "فعال سازی",
+	"sslauth-enable": "فعال‌سازی",
 	"sslauth-disable": "غیرفعال سازی",
 	"sslauth-cn": "نام معمولی",
 	"sslauth-email": "آدرس ایمیل",
