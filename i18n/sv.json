@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Jopparn",
-			"Lokal Profil"
+			"Lokal Profil",
+			"Technic2"
 		]
 	},
 	"sslauth-desc": "Tillåt användare att ladda upp SSL-certifikat för användning vid autentisering",
@@ -14,7 +15,7 @@
 	"sslauth-email": "E-postadress",
 	"sslauth-serial": "Serienummer",
 	"sslauth-response-enable": "SSL-autentisering har aktiverats. När du nu ansluter till {{SITENAME}} över HTTPS med ditt klientcertifikat kommer du automatiskt att vara inloggad.",
-	"sslauth-response-disable": "SSL-autentisering har framgångsrikt inaktiverats.",
+	"sslauth-response-disable": "SSL-autentisering har inaktiverats.",
 	"sslauth-invalidrequest-title": "Ogiltig begäran",
 	"sslauth-invalidrequest": "Ett giltigt SSL-klientcertifikat måste tillhandahållas för att den här sidan ska vara användbar.",
 	"clientssl-legend": "SSL-autentisering",
