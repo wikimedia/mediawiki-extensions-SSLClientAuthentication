@@ -2,8 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Armando-Martin",
-			"Matiia",
-			"Macofe"
+			"Macofe",
+			"Matiia"
 		]
 	},
 	"sslauth-desc": "Permite a los usuarios subir certificados SSL para usarlos en la autenticación",

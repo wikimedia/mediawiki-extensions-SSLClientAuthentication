@@ -1,13 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Justincheng12345",
-			"Shirayuki",
-			"LNDDYL",
 			"Cwlin0416",
-			"飞舞回堂前",
+			"Justincheng12345",
 			"Kly",
-			"Xiplus"
+			"LNDDYL",
+			"Shirayuki",
+			"Xiplus",
+			"飞舞回堂前"
 		]
 	},
 	"sslauth-desc": "容許使用者上傳用作身份驗證的SSL憑證",

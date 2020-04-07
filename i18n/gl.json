@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño",
-			"Elisardojm"
+			"Elisardojm",
+			"Toliño"
 		]
 	},
 	"sslauth-desc": "Permite aos usuarios cargar certificados SSL para usalos na autenticación",
