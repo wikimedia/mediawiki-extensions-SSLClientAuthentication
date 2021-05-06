@@ -100,7 +100,7 @@ function efClientSSLCheckSession( User $user, &$result ) {
 		// No certificate. Do nothing.
 	} elseif(
 		$wgClientSSLStrictAuth &&
-		$user->isLoggedIn() &&
+		$user->isRegistered() &&
 		$sslcert->verify()->isGood() &&
 		$sslcert->getField( 'user_id' ) !== $user->getId()
 	) {
@@ -142,7 +142,7 @@ function efClientSSLAbortLogin( $user, $password, &$retval ) {
 	$sslcert = SSLCertificateTable::singleton()->newFromSession();
 	if(
 		$wgClientSSLStrictAuth &&
-		$user->isLoggedIn() &&
+		$user->isRegistered() &&
 		$sslcert !== false &&
 		$sslcert->verify()->isGood() &&
 		$sslcert->getField( 'user_id' ) !== $user->getId()
