@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mainframe98",
 			"Siebrand"
 		]
 	},
@@ -12,7 +13,7 @@
 	"sslauth-cn": "Algemene naam",
 	"sslauth-email": "E-mailadres",
 	"sslauth-serial": "Serienummer",
-	"sslauth-response-enable": "SSL-verificatie is ingeschakeld. Als i verbindt met {{SITENAME}} via HTTPS met uw clientcertificaat, wordt u automatisch aangemeld.",
+	"sslauth-response-enable": "SSL-verificatie is ingeschakeld. Als u verbindt met {{SITENAME}} via HTTPS met uw clientcertificaat, wordt u automatisch aangemeld.",
 	"sslauth-response-disable": "SSL-verificatie is uitgeschakeld.",
 	"sslauth-invalidrequest-title": "Ongeldige aanvraag",
 	"sslauth-invalidrequest": "Er moet een geldig SSL clientcertificaat opgegeven worden voordat deze pagina nuttig is.",
